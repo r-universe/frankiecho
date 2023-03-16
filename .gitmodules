@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ahpsurvey"]
+	path = ahpsurvey
+	url = https://github.com/frankiecho/ahpsurvey
+	shallow = true
+	registered = true
